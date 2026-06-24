@@ -1,0 +1,9 @@
+https://registry.terraform.io/browse/providers
+
+
+Provider : AWS
+
+https://registry.terraform.io/providers/hashicorp/aws/latest
+
+EC2
+https://registry.terraform.io/modules/terraform-aws-modules/ec2-instance/aws/6.4.0
